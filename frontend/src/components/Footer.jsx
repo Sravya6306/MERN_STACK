@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="banner">
-          <div className="left">Greeshma Cherukuri</div>
+          <div className="left">Karumuri Sravya</div>
           <div className="right">
             <p>ADDRESS</p>
             <p>Open: 05:00 PM - 12:00 AM</p>
@@ -13,7 +13,7 @@ const Footer = () => {
         </div>
         <div className="banner">
           <div className="left">
-            <p>Developed By Greeshma Cherukuri</p>
+            <p>Developed By Karumuri Sravya</p>
           </div>
         </div>
       </div>
